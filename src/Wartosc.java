@@ -1,0 +1,5 @@
+public enum Wartosc {
+
+    DWA, TRZY, CZTERY, PIEC, SZESC, SIEDEM, OSIEM, DZIEWIEC, DZIESIEC, WALET, DAMA, KROL, AS
+
+}
